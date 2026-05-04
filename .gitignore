@@ -1,0 +1,20 @@
+# Compiled output
+*.class
+bin/
+out/
+build/
+target/
+dist/
+nbproject/private/
+
+# IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+nbproject/private/
+
+# macOS
+.DS_Store
