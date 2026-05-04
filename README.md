@@ -4,8 +4,6 @@ Aplicação JavaFX com vários jogos de cartas implementados em torno de um moto
 
 Projecto académico (ISMT, 2018).
 
-> ⚠️ **Nota sobre o nome do repositório:** o nome `Jogodogalo` não corresponde ao conteúdo real, que é uma colecção de jogos de cartas. O nome poderá vir a ser corrigido para `card-games` ou `Sueca`.
-
 ## Jogos incluídos
 
 - **Sueca** (jogo tradicional português)
